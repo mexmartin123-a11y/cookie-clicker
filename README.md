@@ -8,7 +8,7 @@ cookie clicker!
 
         version. 1.0
 
-          + html support
+          + chromebook support *html file*
             no more
 
 
