@@ -10,3 +10,8 @@ cookie clicker!
 
           + html support
             no more
+
+
+        Version. 1.1
+
+          +android support
